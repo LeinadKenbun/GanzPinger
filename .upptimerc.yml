@@ -4,6 +4,7 @@ repo: GanzPinger # The name of this repository
 
 sites:
   - name: DragonNest SEA Status
+    favicon: https://sea.dragonnest.com/favicon.ico
     check: "tcp-ping"
     url: $DN_IP
     port: $DN_PORT
