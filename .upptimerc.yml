@@ -4,7 +4,8 @@ repo: GanzPinger # The name of this repository
 
 sites:
   - name: DragonNest SEA Status
-    favicon: https://media.discordapp.net/attachments/520389517996326917/869763203645702154/favicon.png
+    favicon: https://cdn.discordapp.com/attachments/520389517996326917/869763203645702154/favicon.png
+    faviconSvg: https://cdn.discordapp.com/attachments/520389517996326917/869905472197627964/logo.svg
     check: "tcp-ping"
     url: $DN_IP
     port: $DN_PORT
