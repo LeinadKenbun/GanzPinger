@@ -4,7 +4,7 @@ repo: GanzPinger # The name of this repository
 
 sites:
   - name: DragonNest SEA Status
-    favicon: https://sea.dragonnest.com/favicon.ico
+    favicon: https://media.discordapp.net/attachments/520389517996326917/869763203645702154/favicon.png
     check: "tcp-ping"
     url: $DN_IP
     port: $DN_PORT
@@ -18,7 +18,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /GanzPinger # "repo" is your repository name
   # baseUrl: /your-repo-name
-  faviconSvg: https://github.com/tizoy12/GanzPinger/blob/master/assets/upptime-icon.svg
+  favicon: https://github.com/tizoy12/GanzPinger/blob/master/assets/upptime-icon.svg
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: GanzPinger
   navbar:
