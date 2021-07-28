@@ -22,19 +22,19 @@
     "url": "https://AniSchedule.ganzbot.repl.co",
     "icon": "https://favicons.githubusercontent.com/anischedule.ganzbot.repl.co",
     "slug": "ani-schedule",
-    "status": "down",
-    "uptime": "99.12%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.12%",
-    "uptimeYear": "99.12%",
-    "time": 8127,
-    "timeDay": 8127,
-    "timeWeek": 8127,
-    "timeMonth": 8127,
-    "timeYear": 8127,
+    "status": "up",
+    "uptime": "55.42%",
+    "uptimeDay": "55.42%",
+    "uptimeWeek": "55.42%",
+    "uptimeMonth": "55.42%",
+    "uptimeYear": "55.42%",
+    "time": 13016,
+    "timeDay": 13016,
+    "timeWeek": 13016,
+    "timeMonth": 13016,
+    "timeYear": 13016,
     "dailyMinutesDown": {
-      "2021-07-28": 0
+      "2021-07-28": 8
     }
   }
 ]
