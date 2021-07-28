@@ -1,7 +1,7 @@
 [
   {
     "name": "DragonNest SEA Status",
-    "url": "52.230.66.176",
+    "url": "$DN_IP",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dragon-nest-sea-status",
     "status": "up",
@@ -10,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 202,
-    "timeWeek": 202,
-    "timeMonth": 202,
-    "timeYear": 202,
+    "time": 201,
+    "timeDay": 201,
+    "timeWeek": 201,
+    "timeMonth": 201,
+    "timeYear": 201,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "AniSchedule",
+    "url": "https://AniSchedule.ganzbot.repl.co",
+    "icon": "https://favicons.githubusercontent.com/anischedule.ganzbot.repl.co",
+    "slug": "ani-schedule",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 15978,
+    "timeDay": 15978,
+    "timeWeek": 15978,
+    "timeMonth": 15978,
+    "timeYear": 15978,
     "dailyMinutesDown": {}
   }
 ]
