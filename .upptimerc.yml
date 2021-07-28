@@ -5,9 +5,11 @@ repo: GanzPinger # The name of this repository
 sites:
   - name: DragonNest SEA Status
     check: "tcp-ping"
-    url: 52.230.66.176
-    port: 14503
-
+    url: $DN_IP
+    port: $DN_PORT
+  - name: AniSchedule 
+    url: https://AniSchedule.ganzbot.repl.co
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
