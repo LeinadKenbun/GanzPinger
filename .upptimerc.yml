@@ -9,8 +9,8 @@ sites:
     check: "tcp-ping"
     url: $DN_IP
     port: $DN_PORT
-  - name: AniSchedule 
-    url: https://AniSchedule.ganzbot.repl.co
+  #- name: AniSchedule 
+   # url: https://AniSchedule.ganzbot.repl.co
   - name: GanzRSS
     url: https://ganzbot.up.railway.app/
     
