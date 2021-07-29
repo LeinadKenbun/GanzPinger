@@ -1,5 +1,5 @@
 # Change these first
-owner: tizoy12 # Your GitHub organization or username, where this repository lives
+owner: LeinadKenbun # Your GitHub organization or username, where this repository lives
 repo: GanzPinger # The name of this repository
 
 sites:
@@ -19,14 +19,14 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /GanzPinger # "repo" is your repository name
   # baseUrl: /your-repo-name
-  favicon: https://github.com/tizoy12/GanzPinger/blob/master/assets/upptime-icon.svg
+  favicon: https://github.com/LeinadKenbun/GanzPinger/blob/master/assets/upptime-icon.svg
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: GanzPinger
   navbar:
     - title: Dashboard
-      href: https://tizoy12.github.io/GanzPinger/
+      href: https://LeinadKenbun.github.io/GanzPinger/
     - title: GitHub
-      href: https://github.com/tizoy12/GanzPinger
+      href: https://github.com/LeinadKenbun/GanzPinger
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
