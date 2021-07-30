@@ -19,7 +19,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /GanzPinger # "repo" is your repository name
   # baseUrl: /your-repo-name
-  favicon: https://cdn.discordapp.com/attachments/520389517996326917/869763203645702154/favicon.png
+  favicon: https://media.discordapp.net/attachments/595551516442624019/848915878812450856/elves.png
+  logoUrl: https://media.discordapp.net/attachments/595551516442624019/848915878812450856/elves.png
   name: GanzPinger
   navbar:
     - title: Dashboard
