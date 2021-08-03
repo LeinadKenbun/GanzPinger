@@ -7,8 +7,8 @@ sites:
     favicon: https://cdn.discordapp.com/attachments/520389517996326917/869763203645702154/favicon.png
     faviconSvg: https://cdn.discordapp.com/attachments/520389517996326917/869905472197627964/logo.svg
     check: "tcp-ping"
-    url: $DN_IP
-    port: $DN_PORT
+    url: 52.230.66.176
+    port: 14503
   - name: AniSchedule 
     url: https://AniSchedule.ganzbot.repl.co
   - name: GanzRSS
