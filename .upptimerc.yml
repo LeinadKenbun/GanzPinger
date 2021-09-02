@@ -3,14 +3,8 @@ owner: LeinadKenbun # Your GitHub organization or username, where this repositor
 repo: GanzPinger # The name of this repository
 
 sites:
-  - name: DragonNest SEA Status
-    check: "tcp-ping"
-    url: 52.230.66.176
-    port: 14503
   - name: AniSchedule 
     url: https://AniSchedule.ganzbot.repl.co
-  - name: GanzRSS
-    url: https://ganzbot.up.railway.app/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
