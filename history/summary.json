@@ -6,15 +6,15 @@
     "slug": "ani-schedule",
     "status": "up",
     "uptime": "97.82%",
-    "uptimeDay": "72.10%",
+    "uptimeDay": "76.49%",
     "uptimeWeek": "92.53%",
     "uptimeMonth": "97.45%",
     "uptimeYear": "97.82%",
-    "time": 2816,
-    "timeDay": 5525,
-    "timeWeek": 3697,
-    "timeMonth": 2807,
-    "timeYear": 2816,
+    "time": 2790,
+    "timeDay": 4993,
+    "timeWeek": 3531,
+    "timeMonth": 2767,
+    "timeYear": 2790,
     "dailyMinutesDown": {
       "2021-09-08": 402,
       "2021-09-07": 328,
@@ -32,5 +32,23 @@
       "2021-07-29": 100,
       "2021-07-28": 19
     }
+  },
+  {
+    "name": "GanzBot",
+    "url": "https://ganzbot.repl.co/",
+    "icon": "https://favicons.githubusercontent.com/ganzbot.repl.co",
+    "slug": "ganz-bot",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 271,
+    "timeDay": 271,
+    "timeWeek": 271,
+    "timeMonth": 271,
+    "timeYear": 271,
+    "dailyMinutesDown": {}
   }
 ]
