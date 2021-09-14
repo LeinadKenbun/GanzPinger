@@ -4,18 +4,19 @@
     "url": "https://AniSchedule.ganzbot.repl.co",
     "icon": "https://favicons.githubusercontent.com/anischedule.ganzbot.repl.co",
     "slug": "ani-schedule",
-    "status": "up",
-    "uptime": "98.05%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.77%",
+    "status": "down",
+    "uptime": "98.06%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "92.75%",
     "uptimeMonth": "97.51%",
-    "uptimeYear": "98.05%",
+    "uptimeYear": "98.06%",
     "time": 2619,
     "timeDay": 342,
     "timeWeek": 2604,
     "timeMonth": 2809,
     "timeYear": 2619,
     "dailyMinutesDown": {
+      "2021-09-14": 2,
       "2021-09-08": 402,
       "2021-09-07": 328,
       "2021-09-02": 24,
@@ -38,9 +39,9 @@
     "url": "https://ganzbot.repl.co/",
     "icon": "https://favicons.githubusercontent.com/ganzbot.repl.co",
     "slug": "ganz-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -49,6 +50,8 @@
     "timeWeek": 218,
     "timeMonth": 218,
     "timeYear": 218,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-14": 0
+    }
   }
 ]
