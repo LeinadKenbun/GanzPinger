@@ -5,8 +5,8 @@ repo: GanzPinger # The name of this repository
 sites:
   #- #name: AniSchedule 
     #url: https://AniSchedule.ganzbot.repl.co
-  - name: GanzBot
-    url: https://ganzbot.repl.co/
+  #- name: GanzBot
+    #url: https://ganzbot.repl.co/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
